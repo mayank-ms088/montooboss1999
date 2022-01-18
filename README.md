@@ -65,8 +65,7 @@ Databases:
  <div align = "center">
   
   <a href="https://github.com/montooboss1999" title="Redirect's to Mayank's Github">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=montooboss1999&show_icons=true&theme=dark
-" /></a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=montooboss1999&show_icons=true&theme=dark" /></a>
 
   <a href="https://github.com/montooboss1999">
   <img width="49%" title="Redirect's to Mayank's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=montooboss1999&theme=dark" /></a>
