@@ -71,12 +71,10 @@ Databases:
   <a href="https://github.com/montooboss1999">
   <img width="49%" title="Redirect's to Mayank's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=montooboss1999&theme=dark" /></a>
   
-  </div>
-
- <div align = "center">
+ 
   <a href ="https://github.com/montooboss1999" title="Redirect's to Mayank's Github">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montooboss1999&hide=Shell,Mustache,C,Dockerfile,Html,Css&theme=dark&layout=compact"/></a>
-  </div>
+</div>
 
 </p>
 
