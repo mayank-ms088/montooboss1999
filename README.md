@@ -28,6 +28,8 @@ Languages:
 <code><img height="40" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
 <code><img height="40" src="https://img.shields.io/badge/java-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=white&color=ff4d4d" /></code>
 <code><img height="40" src="https://img.shields.io/badge/javascript-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
+<code><img height="40" src="https://img.shields.io/badge/python-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E" /></code>
+<code><img height="40" src="https://img.shields.io/badge/go-%2320232a.svg?&style=for-the-badge&logo=go&logoColor=%23F7DF1E" /></code>
 
 </div>
 
